@@ -1,3 +1,4 @@
+# A Jenkins file which builds the artifact and performs the unit testingg and then deploying onto a tomcat server
 
 pipeline {
     agent any
